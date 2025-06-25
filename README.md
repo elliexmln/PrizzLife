@@ -1,9 +1,8 @@
 <h1 align="center">PrizzLife Admin</h1>
-<h2 align="center">RECONTINUED - OPEN SOURCE</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
-  <img src="https://img.shields.io/badge/Version-0.9.5-blue" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.8-blue" alt="Version">
   <img src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
 
